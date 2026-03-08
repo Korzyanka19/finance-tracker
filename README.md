@@ -51,7 +51,6 @@
    npm run build
    
 Demo: https://financeminniappp.netlify.app/ (может потребоваться VPN).
-Screenshot: https://github.com/Korzyanka19/finance-tracker/blob/main/public/screenshot.jpg
 ---
 Проект создан в учебных целях для демонстрации навыков разработки на современном стеке React. Особое внимание уделено качеству кода, архитектуре и удобству пользователя.
 
